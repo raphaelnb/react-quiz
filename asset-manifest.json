@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/react-quiz/static/js/main.2f3ec887.chunk.js",
+    "main.js.map": "/react-quiz/static/js/main.2f3ec887.chunk.js.map",
+    "runtime-main.js": "/react-quiz/static/js/runtime-main.7139e72d.js",
+    "runtime-main.js.map": "/react-quiz/static/js/runtime-main.7139e72d.js.map",
+    "static/js/2.9948add4.chunk.js": "/react-quiz/static/js/2.9948add4.chunk.js",
+    "static/js/2.9948add4.chunk.js.map": "/react-quiz/static/js/2.9948add4.chunk.js.map",
+    "index.html": "/react-quiz/index.html",
+    "static/js/2.9948add4.chunk.js.LICENSE.txt": "/react-quiz/static/js/2.9948add4.chunk.js.LICENSE.txt",
+    "static/media/nattu-adnan.a634a247.jpg": "/react-quiz/static/media/nattu-adnan.a634a247.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7139e72d.js",
+    "static/js/2.9948add4.chunk.js",
+    "static/js/main.2f3ec887.chunk.js"
+  ]
+}
